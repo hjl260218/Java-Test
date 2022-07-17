@@ -1,8 +1,8 @@
 import java.util.*;
 public class Baekjoon{
     public static void main(String[] args){
-    	Baekjoon3052 test = new Baekjoon3052();
-    	test.beakjooon3052();
+    	Baekjoon4344 test = new Baekjoon4344();
+    	test.method1();
     }
 }
         
